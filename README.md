@@ -9,4 +9,4 @@ El web scraping es una técnica que utiliza software para extraer grandes cantid
 En este proyecto se desarrolló un script index.js en JavaScript utilizando la librería Playwright. Este script se encarga de visitar las páginas web de diferentes fuentes especializadas en desarrollo de software, extraer la información sobre los 5 lenguajes de programación más demandados en 2024 de cada página, y almacenar los datos obtenidos en un archivo Excel (.xlsx) para su posterior análisis y comparación.
 
 ### Resultados esperados
-Al finalizar el proyecto, se obtendrá tanto una tabla comparativa como un gráfico que mostrarán los 5 lenguajes de programación más populares según cada fuente consultada, permitiendo identificar tendencias y patrones en la demanda de lenguajes de programación en 2024.
+Al finalizar el proyecto, se obtendrán tanto una tabla comparativa como un gráfico que mostrarán los 5 lenguajes de programación más populares según cada fuente consultada, permitiendo identificar tendencias y patrones en la demanda de lenguajes de programación en 2024.
